@@ -1,0 +1,1 @@
+Just a Repository with Machine Learning Algorithm implementations written in Python so I can commit them to memory rather than have them dispersed around. So a linked list of the learning work if you will. Learn to use github in the process!!!
